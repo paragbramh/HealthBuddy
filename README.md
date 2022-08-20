@@ -158,7 +158,7 @@ After you clone the repository, navigate to the project root directory (MedLog).
 
 The following section will take you through the steps of setting up this app and getting it running locally on your computer.
 
-If you don't want to set up this project locally and just want to see the deployed application, go to <https://myhealthtracker.herokuapp.com/>.
+If you don't want to set up this project locally and just want to see the deployed application
 
 To set up this application locally on your computer, perform the following steps:
 
@@ -230,7 +230,7 @@ For more information about yarn and other installation options, see the yarn doc
 
 ### <a name="install-mongo"></a> 5. Install MongoDB
 
-<p>For installation instructions, see <a href="https://github.com/philipstubbs13/coding-tips-tricks-resources/blob/master/MongoDB/Installing-MongoDB.md">Installing MongoDB</a>.</p>
+
 
 ### <a name="mongod"></a> 6. Start the daemon for MongoDB
 
